@@ -1,0 +1,14 @@
+.imageRecipe {
+    height: 250px;
+}
+
+
+header {
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+nav .logo {
+    width: 70px;
+}
